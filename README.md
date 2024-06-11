@@ -3,7 +3,7 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <img src="https://github.com/choijk917/choijk917.github.io/assets/148047944/57236c78-f0bd-4c8f-a511-46c492609bc1" alt="Profile Image" width="200" height="250">
+      <img src="https://github.com/choijk917/portfolio/assets/148047944/57236c78-f0bd-4c8f-a511-46c492609bc1" alt="Profile Image" width="200" height="250">
     </td>
     <td style="border: none; vertical-align: bottom; padding-left: 20px;">
       <strong>최준규</strong><br><br>
