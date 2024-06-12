@@ -20,7 +20,7 @@
 
 ## 1. 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정<br> (2023.09 ~ 2024.01)
 
-<img src="https://github.com/choijk917/portfolio/assets/148047944/97c1aa44-b48f-45b7-8d1b-7d098c1db1e3" alt="Project Image" width="400" height="218">
+<img src="https://github.com/choijk917/portfolio/assets/148047944/97c1aa44-b48f-45b7-8d1b-7d098c1db1e3" alt="Project Image" width="400" height="218">  
 
 <!--### Topic-->
 
@@ -52,7 +52,7 @@
 
 ## 2. 빅데이터 분석 서비스 구현을 위한 JAVA / Python 풀스택 전문가 양성과정<br> (2023.12 ~ 2024.06)
 
-<img src="https://github.com/choijk917/portfolio/assets/148047944/2ad0ee20-b0dd-4e15-9ca3-f83759be0c14" alt="Project Image" width="400" height="218">
+<img src="https://github.com/choijk917/portfolio/assets/148047944/2ad0ee20-b0dd-4e15-9ca3-f83759be0c14" alt="Project Image" width="400" height="218">  
 
 <!--### Topic-->
 
