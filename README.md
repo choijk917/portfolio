@@ -11,7 +11,7 @@
       충현고등학교 졸업 (2013.03 ~ 2016.02)<br>
       한양대학교 에리카캠퍼스 기계공학과 학사 (2016.03 ~ 2023.08)<br><br>
       <strong>E-mail :</strong> <a href="mailto:choijk917@gmail.com">choijk917@gmail.com</a><br>
-      #<strong>GitHub :</strong> <a href="https://github.com/choijk917">github.com/choijk917</a><br>
+      <!--<strong>GitHub :</strong> <a href="https://github.com/choijk917">github.com/choijk917</a><br>-->
     </td>
   </tr>
 </table>
