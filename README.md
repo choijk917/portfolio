@@ -3,7 +3,7 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <img src="https://github.com/choijk917/portfolio/assets/148047944/57236c78-f0bd-4c8f-a511-46c492609bc1" alt="Profile Image" width="200" height="250">
+      <img src="https://github.com/choijk917/portfolio/assets/148047944/8ac9c9bf-d6cc-423c-9cfe-e238fda1b435" alt="Profile Image" width="200" height="250">
     </td>
     <td style="border: none; vertical-align: bottom; padding-left: 20px;">
       <strong>최준규</strong><br><br>
@@ -20,7 +20,7 @@
 
 ## 1. 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정<br> (2023.09 ~ 2024.01)
 
-<img src="https://github.com/choijk917/choijk917.github.io/assets/148047944/b1c83aba-7bd3-4f8a-82c7-539504298864" alt="Project Image" width="400" height="218">
+<img src="https://github.com/choijk917/portfolio/assets/148047944/97c1aa44-b48f-45b7-8d1b-7d098c1db1e3" alt="Project Image" width="400" height="218">
 
 ### Topic
 
@@ -52,7 +52,7 @@
 
 ## 2. 빅데이터 분석 서비스 구현을 위한 JAVA / Python 풀스택 전문가 양성과정<br> (2023.12 ~ 2024.06)
 
-<img src="https://github.com/choijk917/portfolio/assets/148047944/76fd2737-ade4-444e-8d44-a8b7bc5a4b41" alt="Project Image" width="400" height="218">
+<img src="https://github.com/choijk917/portfolio/assets/148047944/2ad0ee20-b0dd-4e15-9ca3-f83759be0c14" alt="Project Image" width="400" height="218">
 
 ### Topic
 
