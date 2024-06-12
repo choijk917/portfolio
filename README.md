@@ -22,7 +22,7 @@
 
 <img src="https://github.com/choijk917/portfolio/assets/148047944/97c1aa44-b48f-45b7-8d1b-7d098c1db1e3" alt="Project Image" width="400" height="218">
 
-### Topic
+<!--### Topic-->
 
 - 자녀의 스마트폰 중독을 방지하기 위해 사용 시간을 설정할 수 있는 어플리케이션 ‘**아이들(Aidle)**’의<br>
   웹페이지 제작 프로젝트
@@ -54,7 +54,7 @@
 
 <img src="https://github.com/choijk917/portfolio/assets/148047944/2ad0ee20-b0dd-4e15-9ca3-f83759be0c14" alt="Project Image" width="400" height="218">
 
-### Topic
+<!--### Topic-->
 
 - 팀원을 구하지 못하거나 경기장 예약에 어려움을 겪는 사용자들을 위한 종합적인 **스포츠 매칭 웹페이지**를 개발
 
