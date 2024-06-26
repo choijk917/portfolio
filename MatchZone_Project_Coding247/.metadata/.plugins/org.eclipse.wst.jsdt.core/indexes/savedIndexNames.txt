@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\choi\Desktop\»õ Æú´õ (2)\MatchZone_Project_Coding247\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3669374977.index
+1804039834.index
+3581163120.index
+894845780.index
+3267553556.index
